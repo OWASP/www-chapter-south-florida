@@ -30,4 +30,3 @@ Next Meeting/Event(s)
 ---------------------
 OWASP South Florida Chapter meetings are posted on our MeetUp Page:https://www.meetup.com/South-Florida-OWASP-Chapter/
 
--->
