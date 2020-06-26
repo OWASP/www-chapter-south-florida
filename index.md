@@ -14,7 +14,7 @@ currency: usd
 
 OWASP South Florida
 -------------
-Welcome to the OWASP South Florida chapter homepage. The chapter board is <a href="mailto:rohini.sulatycki@owasp.org">Rohini Sulatycki</a>, <a href="mailto:sherif.mansour@owasp.org">Sherif Mansour</a> and <a href="mailto:andra.lezza@owasp.org">Andra Lezza</a>. Follow chapter news on [Facebook](https://www.facebook.com/OWASPLondon) | [Twitter](https://twitter.com/owasplondon) | [Meetup.com](https://www.meetup.com/South-Florida-OWASP-Chapter/)
+Welcome to the OWASP South Florida chapter homepage. The chapter board is <a href="mailto:rohini.sulatycki@owasp.org">Rohini Sulatycki</a> and <a href="mailto:aadebiyi@shee.com">Adesina Adebiyi</a> . Follow chapter news on  [Meetup.com](https://www.meetup.com/South-Florida-OWASP-Chapter/)
 
 
 Speaking at OWASP South Florida Chapter Events
@@ -28,14 +28,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Next Meeting/Event(s)
 ---------------------
-OWASP South Florida Chapter meetings are posted on our MeetUp Page:
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+OWASP South Florida Chapter meetings are posted on our MeetUp Page:https://www.meetup.com/South-Florida-OWASP-Chapter/
 
 -->
