@@ -28,5 +28,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Next Meeting/Event(s)
 ---------------------
-OWASP South Florida Chapter meetings are posted on our MeetUp Page:https://www.meetup.com/South-Florida-OWASP-Chapter/
+OWASP South Florida Chapter meetings are posted on our [Meetup page](https://www.meetup.com/South-Florida-OWASP-Chapter/)
 
