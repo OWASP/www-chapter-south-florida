@@ -5,7 +5,7 @@ title: OWASP South Florida
 site_side: true
 tags: south florida
 level: 
-region: United States
+region: North America
 currency: usd
 
 ---
