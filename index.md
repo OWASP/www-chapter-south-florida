@@ -7,6 +7,9 @@ tags: south florida
 level: 
 region: North America
 currency: usd
+meetup-group: South-Florida-OWASP-Chapter
+country: USA
+postal-code: 33314
 
 ---
 
