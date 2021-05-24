@@ -29,3 +29,5 @@ Next Meeting/Event(s)
 ---------------------
 OWASP South Florida Chapter meetings are posted on our [Meetup page](https://www.meetup.com/South-Florida-OWASP-Chapter/)
 
+ {% include chapter_events.html group=page.meetup-group %}
+
