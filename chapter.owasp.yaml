@@ -1,0 +1,25 @@
+currency: USD
+leaders:
+  - name: Rohini Sulatycki
+    email: rohini.sulatycki@owasp.org
+    github: infosec-experiments
+  - name: Adesina Adebiyi
+    email: adesina.adebiyi@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: North America
+  postal_code: '33314'
+  latitude: 39.0040146
+  longitude: -94.432802
+meetup_group: South-Florida-OWASP-Chapter
+name: OWASP South Florida
+repositories:
+  - name: www-chapter-south-florida
+    url: https://github.com/OWASP/www-chapter-south-florida
+    description: OWASP Foundation Web Repository
+tags:
+  - south
+  - florida
+  - custom-tag-1
+website: https://owasp.org/www-chapter-south-florida
